@@ -1,8 +1,7 @@
 layout_spectrum: 0.5448028
-typography_spectrum: 0.546595
 color:
   saturation: 0.5053763
-  lightness: 0.8028674
+  lightness: 0.1164875
   brandStrength: 1
   brandColors:
     - '#FFFFFF'
@@ -11,4 +10,5 @@ color:
     - '#E05648'
     - '#ED8B80'
   rhythmicContrast: 0.8422939
+typography_spectrum: 0.546595
 name: ASID California North
