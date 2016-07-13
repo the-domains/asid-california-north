@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[ASID California North]]></title>
         <description><![CDATA[ASID California North]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/asid-california-north/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Jul 2016 19:11:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jul 2016 02:39:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/asid-california-north/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Yoga @ Cambria SF]]></title>
+            <description><![CDATA[<article><h1>Yoga @ Cambria SF</h1><p>Cambria is killing it with the community events! Yoga, açaí bowls, sweet tunes, and gorgeous stone... Yes please. </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a0b64d1b9c1c1370aee396dabb1408eb/croprotate.jpg?cropheight=3024&cropwidth=3024&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4c019cf2-0acd-418d-bd64-ade09f45667b.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c019cf2-0acd-418d-bd64-ade09f45667b.jpg</link>
+            <guid isPermaLink="false">03e1b2af-0eed-4c38-8416-dd88ac3ea375</guid>
+            <pubDate>Wed, 13 Jul 2016 02:39:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Changes Ahead]]></title>
             <description><![CDATA[<article><h1>Changes Ahead</h1><p>Design time! Our San Francisco chapter is getting a major facelift both online and IRL. We’re updating our brand, our social media presence, and moving offices - lots of change! As Cathleen Gouveia, our President Elect, and Katherine Tincher, our Communications Director, head to Minneapolis for the Chapter Leadership Conferece, it's the perfect time to think about the future of CA North. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d7b9337f6a318de34737028b7df99436770f5a9.jpg"></article>]]></description>
