@@ -1,14 +1,26 @@
-layout_spectrum: 0.5448028
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.546595
 color:
   saturation: 0.5053763
-  lightness: 0.1164875
   brandStrength: 1
+  lightness: 0.3673835
   brandColors:
     - '#FFFFFF'
     - '#E23725'
     - '#C1C1C1'
     - '#E05648'
     - '#ED8B80'
-  rhythmicContrast: 0.8422939
-typography_spectrum: 0.546595
+  rhythmicContrast: 0.3673835
+layout_spectrum: 0.5448028
 name: ASID California North
