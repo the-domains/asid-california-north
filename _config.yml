@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 1
 color:
-  saturation: 0
+  saturation: 0.9731183
   brandStrength: 1
-  lightness: 1
+  lightness: 0.3172043
   brandColors:
     - '#FFFFFF'
     - '#E23725'
     - '#C1C1C1'
     - '#E05648'
     - '#ED8B80'
-  rhythmicContrast: 0.07526882
-layout_spectrum: 1
+  rhythmicContrast: 0.5698925
+typography_spectrum: 0.6164874
+layout_spectrum: 0.5555556
 name: ASID California North
